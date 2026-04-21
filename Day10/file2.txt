@@ -1,0 +1,4 @@
+Hello World
+Welcome to Python
+File handling is easy
+Have a nice day
