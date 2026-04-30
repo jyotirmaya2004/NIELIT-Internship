@@ -3,4 +3,4 @@ try:
 	f.write("This is a new file created using t mode")
 	f.close()
 except FileExistsError:
-	print("File already exists")
+	print("File already exists"
